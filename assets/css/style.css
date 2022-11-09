@@ -481,7 +481,7 @@ section {
 }
 #about .about-container .background {
   min-height: 1200px;
-  background: url(https://github.com/KyiannaG/simplesite/blob/main/assets/img/Kyianna1.jpg) center top no-repeat; /* this sets the image and properties on the about page */
+  background: url(img/Kyianna1.jpg) center top no-repeat; /* this sets the image and properties on the about page */
   margin-bottom: 0px;
 }
 #about .about-container .content {
